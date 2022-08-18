@@ -15,7 +15,7 @@
   "author": "Stas Korobchenko <stanislav.govoruhin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Stasxxx/goit-js-hw-10/issues"
+    "url": "https://github.com/Stasxxx/goit-js-hw-10.git"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
